@@ -6,6 +6,7 @@
 					<content>
 						<Carousel height="30%"  pages="{/ImgaeGalary}" id="caresol" loop="true">
 							<pages>
+							
 								<Image src="{img}"></Image>
 							</pages>
 						</Carousel>
